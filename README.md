@@ -17,6 +17,10 @@ It handles:
 	- absolute paths
 
 
+I tested it on MacOsX and Linux (debian8).
+
+
+
 How to use it?
 -----------
 
@@ -33,5 +37,6 @@ printScriptDir "$0"
 realDir=$(printScriptDir "$0")
 echo "realDir=$realDir";
 ```
+
 
 
