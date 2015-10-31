@@ -7,7 +7,8 @@ printScriptDir
 What is it?
 -----------------
 
-The [printScriptDir function]( https://github.com/lingtalfi/printScriptDir/blob/master/printScriptDir.sh ) returns the real directory from which it is executed.
+The [printScriptDir function]( https://github.com/lingtalfi/printScriptDir/blob/master/printScriptDir.sh ) returns the real directory from which 
+a bash script is executed.
 
 It handles:
 
